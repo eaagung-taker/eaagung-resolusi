@@ -3,6 +3,7 @@ RENCANA KONTEN EAAGUNG
 - Javascript
  * ES6
  * Framework Javascript
+- Fundamental Data Dasar
 - PHP Framework
 - Inteview
 - Vlogs

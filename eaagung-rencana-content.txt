@@ -1,0 +1,8 @@
+RENCANA KONTEN EAAGUNG
+
+- Javascript
+ * ES6
+ * Framework Javascript
+- PHP Framework
+- Inteview
+- Vlogs

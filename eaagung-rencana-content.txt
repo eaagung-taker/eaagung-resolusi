@@ -3,7 +3,11 @@ RENCANA KONTEN EAAGUNG
 - Javascript
  * ES6
  * Framework Javascript
+  ^ Vue
+  ^ React
 - Fundamental Data Dasar
 - PHP Framework
+  ^ Laravel
 - Inteview
 - Vlogs
+- Phyton
